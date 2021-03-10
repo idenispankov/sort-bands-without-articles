@@ -9,7 +9,7 @@ body {
 }
 
 #bands {
-  list-style: inside square;
+  list-style: inside;
   font-size: 20px;
   background: white;
   width: 500px;
@@ -25,9 +25,4 @@ body {
 
 #bands li:last-child {
   border-bottom: 0;
-}
-
-a {
-  color: #ffc600;
-  text-decoration: none;
 }
